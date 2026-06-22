@@ -82,11 +82,12 @@ VendingMachinePro/
 ### Seeding Products
 Use the **Admin Dashboard → Add New Product** form to populate initial inventory, or seed directly via the database if a seed script is provided.
 
-### Notes
-## Admin Access
-Press **Ctrl + A** while on the main vending machine screen to open the Admin Dashboard.
+## Notes
 - This project was built as a learning exercise to practice OOAD principles in a practical, interactive application — not intended for production/commercial use.
 - Currency and pricing are configured for **KHR (Cambodian Riel)** by default but can be adapted.
+
+## Admin Access
+Press **Ctrl + A** while on the main vending machine screen to open the Admin Dashboard.
 
 ## License
 
